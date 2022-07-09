@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Algoritmos", "1 - Algoritmos", "{686DA35C-4CA8-4EA9-8A4C-96AB493B7115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.HelloWorld", "Algoritmo.HelloWorld\Algoritmo.HelloWorld.csproj", "{D3C16846-DBEB-49C5-8207-0AF9477173C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C16846-DBEB-49C5-8207-0AF9477173C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C16846-DBEB-49C5-8207-0AF9477173C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C16846-DBEB-49C5-8207-0AF9477173C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C16846-DBEB-49C5-8207-0AF9477173C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3C16846-DBEB-49C5-8207-0AF9477173C7} = {686DA35C-4CA8-4EA9-8A4C-96AB493B7115}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C9E967-19D3-4EC8-9362-9D41006D05EB}
+	EndGlobalSection
+EndGlobal
