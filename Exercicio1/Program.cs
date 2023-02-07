@@ -17,5 +17,7 @@ if (media > 7)
 else
     Console.WriteLine("Reprovado");
 
+Console.WriteLine("teste git");
+
 
 Console.ReadKey();
